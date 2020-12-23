@@ -1,0 +1,5 @@
+uptime
+
+w
+
+who -b
