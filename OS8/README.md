@@ -3,7 +3,7 @@ Mohadese Moradi
 
 Q1:  line1=>for config user name
 	 line2=>for config user email
-	 line3=>stor password forevee if you want to save it for period of time use (git config --global credential.helper store 'timeout=      ' 
+	 line3=>store password forever if you want to save it for period of time use (git config --global credential.helper store 'timeout=      ' 
 	
 
 Q2:  line1=>The du command displays the amount of file space used by the specified files or directories.
