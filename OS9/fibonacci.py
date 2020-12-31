@@ -8,7 +8,6 @@ def fibo(n):
     else:
         return(fibo(n-1)+fibo(n-2))
 
-
 num=int(input())
 for i in range(1,num):
     print(fibo(i))
