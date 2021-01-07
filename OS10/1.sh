@@ -11,9 +11,10 @@ then
 	if [$L = "yes"]
 	then 
 		echo "You may go to the party but back befor midnight"
+	elif [ $L="no" ]
+	then
+		echo "You may not go to the party." 
 	fi
-else
-	echo "You may not go to the party." 
 fi
 	
 
